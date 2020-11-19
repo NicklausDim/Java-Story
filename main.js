@@ -4,7 +4,7 @@ alert('Welcome ' + username + '! Hope you are ready for a bumpy ride!');
 
 alert('It all started when prince Vitalij asked your help decorating the castle for his birthday party');
 
-alert('You and your kitty companion Cake we responsible for the balloons. Until the ice queen interrupted you and tried to kidnap the prince!');
+alert('You and your kitty companion Cake were responsible for the balloons. Until the ice queen interrupted you and tried to kidnap the prince!');
 
 alert('You managed to hide into the closet in fear but now there is a decision to make.');
 
